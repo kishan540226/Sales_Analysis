@@ -25,7 +25,7 @@ Click below to open the project in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lchxzIM_yewRzcR6bqpyFJePtnb6AHlz?usp=sharing)
 
-> Replace `YOUR_GOOGLE_COLAB_LINK_HERE` with your actual Colab notebook URL.
+> Replace `(https://colab.research.google.com/drive/1lchxzIM_yewRzcR6bqpyFJePtnb6AHlz?usp=sharing)` with your actual Colab notebook URL.
 
 ---
 
@@ -55,5 +55,6 @@ Click below to open the project in Google Colab:
  [hk9070689@gmail.com](#)
 
 > Replace with your actual name and links!
+
 
 ---
